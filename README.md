@@ -11,7 +11,9 @@
             line-height: 1.6; 
             background-color: white; /* Fundo branco */
             color: black; /* Texto preto */
-            background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQJELvDw9Dij_ITabAz6Q43j7hzHj_fNr1Gw&s'); /* Imagem de fundo natalina (neve e luzes) */
+            background-image: url('<img width="3286" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3761cbc-02d0-4c57-b63f-f1f6263ea9bb" />
+" />
+'); /* Imagem de fundo natalina (neve e luzes) */
             background-size: cover; /* Cobre toda a tela */
             background-attachment: fixed; /* Fixa a imagem ao rolar */
             background-position: center; /* Centraliza */
