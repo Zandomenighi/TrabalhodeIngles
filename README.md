@@ -11,7 +11,7 @@
             line-height: 1.6; 
             background-color: white; /* Fundo branco */
             color: black; /* Texto preto */
-            background-image: url('<img width="3286" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3761cbc-02d0-4c57-b63f-f1f6263ea9bb" />
+            background-image: url("[<img width="3286" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3761cbc-02d0-4c57-b63f-f1f6263ea9bb](https://img.cdndsgni.com/preview/11691667.jpg)" />
 " />
 '); /* Imagem de fundo natalina (neve e luzes) */
             background-size: cover; /* Cobre toda a tela */
